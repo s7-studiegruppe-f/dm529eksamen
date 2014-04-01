@@ -250,10 +250,71 @@
  - Slope field
  
 ./slides/slides13.pdf
+ - Differential equations
+ - First order differential equation
+ - Initial value problem
+ - slope field
+ - Solving first order Ordinary differential equations (general solution)
+ - (Non)Separable ODE
+ - Numerical solutions (Euler method)
+ - Linear differential equations
+ - Homogeneous inhomogeneous
+ - Superposition
+ 
 ./slides/slides14.pdf
+ - Linear differential equations
+ - Homogeneous inhomogeneous
+ - Superposition
+ - The general picture (structure of solutions)
+ -  
 ./slides/slides15.pdf
+ - Second order LDE (structure, constant coefficients)
+ - Alternating series
+ - alternating series test
+ - error estimate for alternating series
+ 
 ./slides/slides16.pdf
+ - Power series
+ - Taylor series
+ - Radius of convergence power series
+ - ratio test power series
+ - Power series, function vs. sequence
+ - Algebraic operations (sums and differences + product)
+ - Derivatives of power series
+ - manipulation of power series
+ - Integrals of power series
+ 
 ./slides/slides17.pdf
+ - Taylor series of functions defined by an integral
+ - Binomial Theorem, binomial coefficients 
+ - Binomial series for integers
+ - Binomial recursion (n choose k)
+ - Binomial series for real exponents
+ - Binomial series for complex exponents
+ 
 ./slides/slides18.pdf
+ - Integrals of functions with more than one variable
+ - -||- (Rectangular domains)
+ - -||- (Riemman sums)
+ - Double integrals on axis parallel rectangular domains
+ - Double integrals on general bounded domains
+ - Properties of double integrals
+ - Normal domains
+ - Iterated integrals
+ 
 ./slides/slides19.pdf
+ - Improper double integrals, iteration
+ - unbounded integrand
+ - Mean value theorem for double integrals
+ - Mean value for area + volume
+ - Average value for f over D
+ - Double integrals in polar Coordinates 
+ - Area of polar region
+ - Detour via double integrals
+ 
 ./slides/slides20.pdf
+ - Triple integrals
+ - Iteration order
+ - Vectors (length, scalar multiples, zero vector, unit vector, addition, subtraction, dot product, vector projection)
+ - Vectors in R^2 and R^3
+ - Vector cross product in R^3
