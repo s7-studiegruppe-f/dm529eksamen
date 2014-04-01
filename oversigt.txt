@@ -111,17 +111,144 @@
 ./noter/noterkirsten2.pdf
 ./noter/noterkirsten3.pdf
 ./slides/slides1.pdf
+ - Sets
+ - Representation on Sets
+ - Real numbers
+ - Operations on sets
+ - Subsets
+ - Cartesian products of sets
+ - Functions
+ - Graph of a function
+ - Composition of functions
+ - Powers (power rules)
+ - Polynomial functions
+ - Addition/Subtraction of polynomials
+ 
 ./slides/slides2.pdf
+ - Multiplication of polynomials
+ - Rationel functions
+ - Exponential functions
+ - Injective, surjective and bijective functions (properties/Interpretation in the graph)
+ - Inverse function
+ - Inverse functions and logarithms (Identity function)
+ - Natural logarithm
+ - Application: Logarithmic scale
+ - Trigonometric functions (Cartesian coordinates)
+ - Inverse of trigonometric functions
+ - Sequences (Fibonacci etc.)
+ - Limits (Convergence and the limit of a sequence)
+ - Rules of limits (convergence / divergence)
+ 
 ./slides/slides3.pdf
+ - Sums
+ - Infinite sums
+ - Limits of functions
+ - Alternative definition of one-sided limits (leftsided and rightsided)
+ - Limits at infinity
+ - Rules for limits
+ - Squezze (sandwich theorem / leftsided limit)
+ - Continuous function
+ - Intermediate value theorem
+ - Difference quotient
+ - Derivatives (Linear functions/quadratic functions)
+ - Differentiability and continuity (Conditions)
+ - Rules for derivatives (Derivative of sum/product)(chain rule)
+ 
 ./slides/slides4.pdf
+ - Derivative of the inverse function
+ - Higher derivatives (second, third,... derivative)
+ - n times diffentiable
+ - Geometric interpretation of first derivatives (ascending/descending functions)
+ - Convex / Concave function
+ - Extreme points (Local, global minimum + maximum, Inflections points)
+ - Criteria for extreme/inflections points (Condition etc.)
+ - Limit laws with infinite limits
+ - Indeterminate expressions (limits)
+ - L'Hospital's rule
+ 
 ./slides/slides5.pdf
+ - L'Hospital's rule (limits etc.)
+ - Polynomial growth versus exponential growth
+ - Mean Value Theorem
+ - Linear approximation
+ - Finding zeros of a function
+ - Newton approximation
+ - Taylor polynomial
+ - Taylor approximation
+ - Lagrange remainder theorem
+ - Taylor Series
+ 
 ./slides/slides6.pdf
+ - Functions of more than one variable
+ - Graphs
+ - Saddle surface
+ - Level sets / level curves
+ - Distance between points in R^n (theorem of Pythagoras / Euclidean distance)
+ - Open and closed sets, boundary points
+ - Limits and Continuity
+ - Partial derivatives (difference quotient)
+ - Tangent Planes
+ - High order partial derivatives
+ - Exchanging the order of partial derivative (Theorem of Schwarz)
+ 
 ./slides/slides7.pdf
+ - Partial derivatives
+ - Vectors (length, scalar multiples, unit vector, addition, subtraction, dot product, gradient, tangent spaces)
+ - Linear approximation
+ - Directional derivatives and (paritial derivatives + the gradient)
+
 ./slides/slides8.pdf
+ - Geometric interpretation of directional derivatives
+ - Saddle surface
+ - Local extrema (local min max)
+ - Integration (Definite integral, antiderivative)
+ - Mean value theorem of differentiation
+ - Mean value theorem for the area
+ - Riemann sum
+ - The definite integral (existence)
+ 
 ./slides/slides9.pdf
+ - Integration rules
+ - Antiderivative
+ - Fundamental Theorem of calculus
+ - Product rule
+ - Chain Rule
+ - Rule for integration by parts
+ - Substitution rule
+ 
 ./slides/slides10.pdf
+ - Integration of rationel functions
+ - Improper integrals (infinity/boundry)
+ - Numerical integration, motivation
+ - Approximation by rectangles (Midpoint rule)
+ - Trapezoids rule
+ - Trapezoid sum
+
 ./slides/slides11.pdf
+ - Length of curves
+ - Length of a function graph (Mean value theorem of differentiation)
+ - Mean value theorem (length of polynoal line, riemann sums, length of graph)
+ - Convergence criteria for infinite series (comparison test, integral test)
+ - Complex numbers (addition, subtraction, multiplication, division)
+ - Representation (Complex plane, imaginary axis/real axis)
+
 ./slides/slides12.pdf
+ - Complex numbers (imaginary, real, conjugate, complex plane)
+ - Polar Coordinates
+ - Algebraic, polar, exponential representation
+ - Arithmetic operations
+ - Powers and roots of complex numbers
+ - Fundamental theorem of algebra
+ - n'th roots
+ - root test, ratio test
+ - Absolute and conditional convergence (Theorem) Reordering summands
+ - Alternating series (series test)
+ - Ordinary differential equations
+ - First order differential equations
+ - Initial value problem
+ - General initial value problem
+ - Slope field
+ 
 ./slides/slides13.pdf
 ./slides/slides14.pdf
 ./slides/slides15.pdf
