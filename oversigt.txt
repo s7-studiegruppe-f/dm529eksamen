@@ -3,18 +3,106 @@
  - Værdimængder for funktioner
 
 ./noter/noter2.pdf
+ - Ulige/lige funktioner
+ - Symmetri
+ - Bijektiv
+ - Surjektiv
+ - Injektiv
+ - Sekundærmængde / codomain
+ - Invers funktion
+ - Følge
+
 ./noter/noter3.pdf
+ - Følger
+ - Grænseværdier for følger
+ - Summer til formler
+ - Summer
+ - Mellemværdisætning
+ - Polynomier
+ - Differenskvotient
+
 ./noter/noter4.pdf
+ - Differentialregning
+ - Kædereglen
+ - Grænseværdi
+ - Kontinuitet
+ - Sandwichsætningen
+ - Afledede af inverse funktioner
+ - Ekstrema
+ - vendepunkter
+ - L'Hôpitals regel
+
 ./noter/noter5.pdf
+ - Differentialregning
+ - Lineær approksimation
+ - Newtons metode
+ - Maclaurin polynomier
+ - Taylor polynomier
+ - Lagrange
+ - Summer
+
 ./noter/noter6.pdf
+ - Riemann summer
+ - Integraler
+ - Infinitesimal regning
+ - Substitution
+ - Partiel integration
+
 ./noter/noter7.pdf
+ - Gradienter
+ - Saddelpunkter
+ - Ekstrema
+ - Vektor funktioner
+
 ./noter/noter8.pdf
+ - Integraler
+ - Substitution
+ - Partiel integration
+ - Rationelle funktioner
+ - Uegentlige integraler
+ - Trapez metoden
+
 ./noter/noter9.pdf
+ - Integraler
+ - Substitution
+ - Længden af en graf
+ - Summation
+ - Grænser for summer
+ - Integraltesten
+ - Komplekse tal
+
 ./noter/noter10.pdf
+ - Komplekse tal
+   - Potenser
+   - Rødder
+ - Uendelige rækker
+ - Førsteordens differentialligninger
+
 ./noter/noter11.pdf
+ - Sædvanlige separable differentialligninger
+   - lineære
+ - Eulers metode
+ - Heuns metode
+ - Runge kutta metoden
+
 ./noter/noter12.pdf
+ - Differentialligninger
+ - Summer
+   - Delsummer
+ - Betinget konvergens
+
 ./noter/noter13.pdf
+ - Potensrækker
+ - Konvergensinterval / konvergensradius
+
 ./noter/noter14.pdf
+ - Rækker
+ - Summer
+ - Maclaurin rækker
+ - Taylor rækker
+ - Binomial rækker
+ - Binomial koefficienter
+
 ./noter/noter15.pdf
 ./noter/noter16.pdf
 ./noter/noter17.pdf
